@@ -4,7 +4,7 @@
   font-family: "Open Sans", sans-serif;
 }
 .header {
-  /* background-color: #fff8f3; */
+  background-color: #fff8f3;
   background-image: url("../my-portfolio-img/images/header_bg.png"),
     url("../my-portfolio-img/images/developer.png");
   background-repeat: no-repeat;
@@ -23,7 +23,7 @@
 nav {
   display: flex;
   justify-content: space-between;
-  margin: 50px 200px;
+  padding: 50px 200px;
 }
 .nav-title {
   font-size: 45px;
